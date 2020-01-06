@@ -1,0 +1,7 @@
+﻿<Functions>
+  <Function Name="Get Bet Detail">
+    <Setting Key="InsertBetDetail" SpName="InsertBetDetail" DbName="DefaultConnection" />
+    <Setting Key="SelectBetDetailLastVersion" SpName="SelectBetDetailLastVersion" DbName="DefaultConnection" />
+    <Setting Key="UpdateBetDetailLastVersion" SpName="UpdateBetDetailLastVersion" DbName="DefaultConnection" />
+  </Function>
+</Functions>
